@@ -8,7 +8,7 @@ Hi, I'm Sherry.
 
 ### More Information
 
-Currently majoring in Industrial Engineering with an AI minor. 
+Currently majoring in Industrial Engineering with an AI minor. <br>
 Curious about data science, quant finance, painting, poetry & environmental sustainability. 
 
 ### Contact me
