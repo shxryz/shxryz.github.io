@@ -4,11 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I'm Sherry.
 
 ### More Information
 
-Hi, I'm Sherry.
 Currently majoring in Industrial Engineering with an AI minor. 
 Curious about data science, quant finance, painting, poetry & environmental sustainability. 
 
