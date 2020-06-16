@@ -1,12 +1,8 @@
 ---
 layout: page
-title: About
+title: Hi, I'm Sherry.
 permalink: /about/
 ---
-
-Hi, I'm Sherry.
-
-### More Information
 
 Currently majoring in Industrial Engineering with an AI minor. <br>
 Curious about data science, quant finance, painting, poetry & environmental sustainability. 
