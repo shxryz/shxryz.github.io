@@ -8,8 +8,10 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Hi, I'm Sherry.
+Currently majoring in Industrial Engineering with an AI minor. 
+Curious about data science, quant finance, painting, poetry & environmental sustainability. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sherry.zuo@mail.utoronto.ca](mailto:sherry.zuo@mail.utoronto.ca)
